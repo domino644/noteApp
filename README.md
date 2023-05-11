@@ -1,9 +1,9 @@
 # noteApp
 Note app made with React Native based on Expo Secure Store
 ### How to run it?
-``Install Expo on your mobile device``<br/>
-``In cmd type <b>npm i</b> to install all neccessary packages``<br/>
-``Then type npx expo start and scan QR code with your Expo App on your mobile device``<br/>
+Install <b>Expo</b> on your mobile device<br/>
+In cmd type <b>npm i</b> to install all neccessary packages <br/>
+Then type <b>npx expo start</b> and scan QR code with your Expo App on your mobile device<br/>
 
 
 ##### Tip
