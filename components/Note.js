@@ -7,7 +7,7 @@ export default function Note(props) {
         await SecureStore.deleteItemAsync(key);
     };
     const alert = () => {
-        Alert.alert("Czy chcesz usunąć?", [
+        Alert.alert("Czy chcesz", "usunąć?", [
             { text: "nie", style: "cancel" },
             {
                 text: "tak",
