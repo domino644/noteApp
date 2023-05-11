@@ -6,6 +6,6 @@ Note app made with React Native based on Expo Secure Store
 ``Then type npx expo start and scan QR code with your Expo App on your mobile device``<br/>
 
 
-
+##### Tip
 >To delete a note you have to hold a note.
 
